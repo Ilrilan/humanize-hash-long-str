@@ -26,4 +26,9 @@ describe('Not humanized hash', () => {
       'qqqqwwwwwwwww_PphG1OQejv4BAg=='
     )
   })
+  it('MaxLength = 30, length = 5', () => {
+    expect(humanizeHashLongStr(veryLongStr, { humanizeHash: false, maxLength: 30, length: 5 })).toEqual(
+      'qqqqwwwwwwwwwwwwwwwww_4C5xiYs='
+    )
+  })
 })
