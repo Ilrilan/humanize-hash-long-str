@@ -1,0 +1,11 @@
+{
+  "name": "humanize-hash-long-str",
+  "version": "1.0.0",
+  "main": "humanize-hash-long-str.js",
+  "repository": "https://github.com/Ilrilan/humanize-hash-long-str",
+  "author": "Ilrilan <ilrilan2@gmail.com>",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "prettier": "^2.3.2"
+  }
+}

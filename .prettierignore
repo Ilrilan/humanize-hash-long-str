@@ -1,0 +1,12 @@
+/public
+/allure-results
+/website
+/tests/inbrowser/build/*
+/lib
+/tests/size/build/*
+/.cache
+/.yarn
+/boxified
+/coverage
+
+/packages/fb-devtools/packs

@@ -1,0 +1,8 @@
+node_modules/
+_node_modules/
+/public
+.idea
+/.yarnrc
+/lib
+*.sublime*
+*.log
